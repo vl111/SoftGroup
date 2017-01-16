@@ -1,0 +1,11 @@
+6/Sam/5.9/hourly/981.7600000000001
+1/Tom/5.7/hourly/948.48
+7/Mike/5.6/hourly/931.8399999999999
+3/Joe/5.2/hourly/865.2800000000001
+9/Jerry/5.1/hourly/848.64
+5/Bruce/500.0/monthly/500.0
+4/Mark/400.0/monthly/400.0
+10/Wiliam/400.0/monthly/400.0
+8/Nick/356.0/monthly/356.0
+2/Edvard/5.5/monthly/5.5
+#####

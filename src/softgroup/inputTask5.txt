@@ -1,0 +1,11 @@
+1/Tom/5.7/hourly/
+2/Edvard/5.5/monthly/
+3/Joe/5.2/hourly/
+4/Mark/400/monthly/
+5/Bruce/500/monthly/
+6/Sam/5.9/hourly/
+7/Mike/5.6/hourly/
+8/Nick/356/monthly/
+9/Jerry/5.1/hourly/
+10/Wiliam/400/monthly/
+#####
